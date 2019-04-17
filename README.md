@@ -1,2 +1,2 @@
 # evael-tutorials
-Tutorials for the evael engine.
+Tutorials for Evael engine.
